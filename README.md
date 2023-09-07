@@ -3,7 +3,7 @@
 ## hot to use
 
 ```
-npm start -- router password
+npm start -- -- router password
 ```
 
 ## License
