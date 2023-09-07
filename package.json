@@ -1,0 +1,13 @@
+{
+  "name": "passwords",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/brtmvdl/passwords",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
