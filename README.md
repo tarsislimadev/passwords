@@ -1,4 +1,10 @@
-# [passwords](https://github.com/brtmvdl/passwords)
+# [Passwords](https://github.com/brtmvdl/passwords)
+
+## social & donate
+
+[Donate](https://link.mercadopago.com.br/brtmvdl) - [Telegram](https://t.me/+KRmg5MlqgMk0MTg5) - [Discord](https://discord.gg/CPRyzsjj)
+
+## how to install
 
 ## hot to use
 
@@ -6,7 +12,7 @@
 npm start -- -- router password
 ```
 
-## License
+## license
 
 [Electron (quick start)](https://github.com/electron/electron-quick-start)
 
